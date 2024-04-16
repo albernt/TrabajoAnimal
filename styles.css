@@ -1,3 +1,19 @@
 body {
     background-image: url('img/fondo.jpg') !important;
 }
+
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.125) !important;
+    border-radius: 8px !important;
+    height:700px;
+}
+
+#gamba{
+    width: 1000px;
+    display: block;
+    margin: 0 auto; 
+    max-width: 100%; 
+
+}
+
+
